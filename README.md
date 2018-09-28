@@ -1,3 +1,2 @@
 # EMAp
-Disciplina de visualização de Informação
-2018
+Disciplina de visualização de Informação, 2018
